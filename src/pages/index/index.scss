@@ -1,0 +1,10 @@
+.index{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .canvas{
+        background-color: blue;
+        width: 100%;
+        height: 500px;  
+    }
+}
